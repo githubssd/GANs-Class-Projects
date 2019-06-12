@@ -17,14 +17,9 @@ In this project, I defined and trained a DCGAN on a dataset of faces. The goal o
 
 1. Clone the repository and navigage to the downloaded folder.
 	```
-		git clone https://github.com/choonghee-lee/Face-Generation
-		cd Face-Generation
+		git clone https://github.com/githubssd/GANs-Class-Projects
 	```
-2. Open the `dlnd_face_generation.ipynb` file. Of course, you can find HTML version of the file.
-	```
-		jupyter notebook dlnd_face_generation.ipynb
-	```
-3. Read and follow the instructions! This repository does not include the dataset of faces. You can find and download it in the notebook.
+2. Read and follow the instructions! This repository does not include the dataset of faces. You can find and download it in the notebook.
 
 ## Project Information
 
@@ -72,4 +67,4 @@ In the training phase, it takes your time too much so I recommend you to use a G
 
 ### Amazon Web Services
 
-You can use Amazon Web Services to launch an EC2 GPU instance. (This costs money!)
+You can use Amazon Web Services to launch an EC2 GPU instance.
